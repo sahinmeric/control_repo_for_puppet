@@ -1,0 +1,1 @@
+# control_repo_for_puppet
